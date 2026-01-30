@@ -14,3 +14,7 @@ npm run dev
 Use the Next.js runtime:
 - Build command: `npm run build`
 - Publish directory: `.next`
+
+
+## Notes
+This project pins Next.js 14 + React 18 for maximum compatibility on Vercel.
