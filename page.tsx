@@ -1,4 +1,4 @@
-import OohJunkLanding from "@/components/OohJunkLanding";
+import OohJunkLanding from "./OohJunkLanding"; 
 
 export default function Page() {
   return <OohJunkLanding />;
